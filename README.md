@@ -14,11 +14,11 @@ This project compares the performance of a **simple Neural Network (NN)** and a 
 
 ## Folder Structure
 fashion-mnist-nn-cnn/
-├── models.py # Contains NN and CNN model code
-├── requirements.txt # Python dependencies
-├── .gitignore # Ignore venv, pycache, etc.
-├── README.md # Project documentation
-└── venv/ # Optional local virtual environment
+ - models.py # Contains NN and CNN model code
+ - requirements.txt # Python dependencies
+ - .gitignore # Ignore venv, pycache, etc.
+ - README.md # Project documentation
+ - venv/ # Optional local virtual environment
 
 
 ---
